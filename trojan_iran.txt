@@ -1,5 +1,4 @@
-trojan://ypDt8RkT7J@31.172.67.242:43118?security=tls&alpn=http/1.1&headerType=none&fp=random&type=tcp&sni=tpmwh.phooeyunfold.com#@Vip_Security join us - 517
-trojan://ypDt8RkT7J@138.199.41.25:43118?type=tcp&security=tls&sni=dngn.phooeyunfold.com#@Vip_Security join us - 516
+trojan://ypDt8RkT7J@31.172.67.242:43118?security=tls&alpn=http/1.1&headerType=none&fp=random&type=tcp&sni=tpmwh.phooeyunfold.com#@Vip_Security join us - 516
 trojan://y0.qLgDed4ElASjr_3%2BB7kTVb9np1@83.172.159.181:17860?security=tls&headerType=none&type=tcp&sni=www.vk.ru#@Vip_Security join us - 515
 trojan://xtA6WF92Itmhm9jfvXUH1MDVL@free-de-3.undef.network:443/?type=ws&host=free-de-3.undef.network&path=%2Ff2fc2a1f&security=tls&sni=free-de-3.undef.network&allowInsecure=1#@Vip_Security join us - 514
 trojan://xstack-5314-3233-freevpn@cdn-sv-4.goldaccess.xyz:1935?security=tls&alpn=h2,http/1.1&headerType=none&type=tcp#@Vip_Security join us - 513
